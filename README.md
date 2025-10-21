@@ -1,10 +1,10 @@
-# Cloud Storage Dashboard - Full Stack Application**
+# Cloud Storage Dashboard - Full Stack Application
 
 This project is a complete implementation of the Cloud Storage Dashboard, with a React frontend and a Python (Flask) backend.
 
 ## **How to Run This Application**
 
-**Critically, this application requires API keys from Google, Dropbox, and Microsoft to function.**
+Critically, this application requires API keys from Google, Dropbox, and Microsoft to function.
 
 ### **Step 1: Backend Setup**
 
